@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-09T18:01:00 IST" name="Default suite" finished-at="2024-01-09T18:01:00 IST" duration-ms="57">
+    <groups>
+    </groups>
+    <test started-at="2024-01-09T18:01:00 IST" name="Default test" finished-at="2024-01-09T18:01:00 IST" duration-ms="57">
+      <class name="adv_sel.Mvn_command_Test">
+        <test-method signature="command2Test()[pri:0, instance:adv_sel.Mvn_command_Test@5c6648b0]" started-at="2024-01-09T18:01:00 IST" name="command2Test" finished-at="2024-01-09T18:01:00 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- command2Test -->
+        <test-method signature="command3Test()[pri:0, instance:adv_sel.Mvn_command_Test@5c6648b0]" started-at="2024-01-09T18:01:00 IST" name="command3Test" finished-at="2024-01-09T18:01:00 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- command3Test -->
+        <test-method signature="command4Test()[pri:0, instance:adv_sel.Mvn_command_Test@5c6648b0]" started-at="2024-01-09T18:01:00 IST" name="command4Test" finished-at="2024-01-09T18:01:00 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- command4Test -->
+        <test-method signature="mvnCommandTest()[pri:0, instance:adv_sel.Mvn_command_Test@5c6648b0]" started-at="2024-01-09T18:01:00 IST" name="mvnCommandTest" finished-at="2024-01-09T18:01:00 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mvnCommandTest -->
+      </class> <!-- adv_sel.Mvn_command_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
